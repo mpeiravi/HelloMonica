@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloMonica</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="question_text">Tehran is the Capital of iran</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+</resources>
